@@ -2,7 +2,7 @@
 
 ## About
 
-About description.
+This is a program that reads in comma-separated value (CSV) files and allows you to manipulate its content. You can search for a specific input in the whole file or a given column, you can add/remove columns, you can apply filters (that are dynamically generated) and then you can extract the data you want back into a CSV file or also a JSON file. Users can also access analytics from the file which includes bar charts and averages of columns.
 
 I coded this in Java using InteliJ IDEA.
 
